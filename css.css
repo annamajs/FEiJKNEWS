@@ -1,13 +1,15 @@
 ul {
     list-style: none;
-    display:inline-block;
+    
 }
 
 li {
-    float: left;
+    display: inline;
+    font-size: 150%;
+   
 }
 
 li a {
-    display: inline;
-    padding: 5em;
+    padding: 2em;
+
 }
