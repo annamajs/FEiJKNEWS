@@ -18,7 +18,8 @@ li {
     
    
 }
-body {background-color: red;}
+body {background-color: red;
+    margin: 20px;}
 
 image {
     margin: 50px;
