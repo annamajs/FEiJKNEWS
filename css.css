@@ -1,6 +1,6 @@
 /**** ALLMÄN STILMALL ****/
 
-.navigation {
+#navigation {
     list-style: none;
     margin: 90px;
     background-color: white;
