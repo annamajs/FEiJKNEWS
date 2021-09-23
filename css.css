@@ -1,10 +1,11 @@
+/**** ALLMÄN STILMALL ****/
+
 .navigation {
     list-style: none;
     margin: 90px;
     background-color: white;
     padding: 2em;
     color: red;
-    
 }
 
 li {
@@ -15,12 +16,26 @@ li {
     font-weight: bold;
     color: red;
     padding: 2em;
-    
-   
 }
-body {background-color: red;
+
+body {
+    background-color: red;
     margin: 20px;}
 
 image {
     margin: 50px;
 }
+
+/**** HÖRVALLIUS.HTML ****/
+
+
+/**** LARSSON.HTML ****/
+
+
+/**** THORNANDER.HTML ****/
+
+
+/**** TAKOW.HTML ****/
+
+
+/**** CARLSSON.HTML ****/
