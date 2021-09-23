@@ -7,6 +7,9 @@
     padding: 2em;
     color: red;
 }
+.underrubriker {
+    font-size: 12px;
+}
 
 li {
     display: inline;
@@ -32,7 +35,8 @@ image {
 /**** LARSSON.HTML ****/
 
 
-/**** THORNANDER.HTML Jag har tagit bort padding ifrån navigation och li****/
+/**** THORNANDER.HTML Jag har tagit bort padding ifrån navigation och li
+navigation hade inte # utan . ****/
 
 
 /**** TAKOW.HTML ****/
