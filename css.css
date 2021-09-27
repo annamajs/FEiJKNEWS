@@ -33,6 +33,12 @@ image {
     margin: 50px;
 }
 
+#footer {
+    clear: both;
+    background-color: #f1f1f1;
+    margin-top: -500px;
+}
+
 /**** HORVALLIUS.HTML ****/
 
 
@@ -85,5 +91,6 @@ navigation hade inte # utan . ****/
 }
 
 .work {
-    margin: 20px;
+    margin: 10px;
+    width: 85%;
 }
