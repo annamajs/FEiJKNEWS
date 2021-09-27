@@ -36,7 +36,10 @@ image {
 #footer {
     clear: both;
     background-color: #f1f1f1;
-    margin-top: -500px;
+    margin-top: 50px;
+    padding: 30px;
+    border-top: 5px red solid;
+    text-align: center;
 }
 
 /**** HORVALLIUS.HTML ****/
@@ -91,6 +94,6 @@ navigation hade inte # utan . ****/
 }
 
 .work {
-    margin: 10px;
+    margin: 20px;
     width: 85%;
 }
