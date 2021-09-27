@@ -82,5 +82,8 @@ navigation hade inte # utan . ****/
     font-size: 12px;
     font-weight: 100;
     line-height: 1.9;
+}
 
+.work {
+    margin: 20px;
 }
